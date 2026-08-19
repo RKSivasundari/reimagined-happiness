@@ -120,7 +120,7 @@ Possible features to add in the future:
 * [ ] Add word categories
 * [ ] Add a score system
 * [ ] Add multiple rounds
-* [ ] Add a play-again option
+* [X] Add a play-again option
 * [ ] Add a larger word database
 * [ ] Add hints
 * [ ] Add a high-score system
